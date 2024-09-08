@@ -6,3 +6,5 @@ source 'https://rubygems.org'
 
 gem 'parallel_rspec'
 gem 'rspec', '~> 3.13'
+
+gem "rubocop", "~> 1.66"
