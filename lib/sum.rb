@@ -1,5 +1,5 @@
 class Sum
   def self.call(a, b)
-    a + b
+    b + a
   end
 end
